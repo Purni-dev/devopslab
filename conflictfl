@@ -1,3 +1,4 @@
 This line is added using vi editor in local repo before conflict
 This line is added to this file without pulling the latest updates from remote repo
 
+This line is added via remote repo 
