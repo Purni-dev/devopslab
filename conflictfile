@@ -1,7 +1,0 @@
-This line is created using vi editor
-<<<<<<< HEAD
-This line is added in local repository
-
-=======
->>>>>>> b94f2b39077fcd2cd17f92ae1345c53753fbd324
-This line is added using editor in remote directory
