@@ -1,4 +1,7 @@
 This line is added using vi editor in local repo before conflict
+<<<<<<< HEAD
 This line is added to this file without pulling the latest updates from remote repo
 
+=======
+>>>>>>> bfe98f904a309e42f3fa3747c189c682a459049d
 This line is added via remote repo 
